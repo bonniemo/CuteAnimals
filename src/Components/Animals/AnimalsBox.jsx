@@ -1,6 +1,5 @@
 import AnimalsChoose from "./AnimalsChoose";
 import dataJson from './Animals.json'
-import './Animals.css';
 
 
 const AnimalsBox = () => {

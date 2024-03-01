@@ -3,7 +3,6 @@
     background-color: #1e1e1e;
     color: whitesmoke;
     padding: 1rem;
-    max-width: 600px;
     font-size: 1.2rem;
     margin: 0 0 3rem;
     .dropdown {
@@ -39,7 +38,7 @@
     }
     
     img {
-        max-width: 40%;
+        max-width: 60%;
         aspect-ratio: 16/9;
         display: block;
         object-fit: cover;
