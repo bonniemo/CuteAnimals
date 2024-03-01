@@ -30,6 +30,13 @@
             "favourite_food": "Seeds",
             "best_friend": "Whiskers",
             "favourite_spot": "Hamster wheel"
+        },
+        {
+            "name": "Whiskers",
+            "species": "Cat",
+            "image_url": "https://media.istockphoto.com/id/491732610/sv/foto/beautiful-cat.webp?s=1024x1024&w=is&k=20&c=yoyqSgpH_VApOMzKB41AacKPY5denJLianK0WWyl-uQ=",
+            "favourite_food": "Mice",
+            "best_friend": "Fluffy"
         }
     ]
 }

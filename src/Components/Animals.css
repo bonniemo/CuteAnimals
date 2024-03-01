@@ -1,0 +1,47 @@
+.animals {
+    border: 1px solid black;
+    background-color: #1e1e1e;
+    color: whitesmoke;
+    padding: 1rem;
+    max-width: 600px;
+    font-size: 1.2rem;
+    .animal-choose {
+        display: flex;
+        align-items: center;
+    }
+    select {
+        margin-left: 1rem;
+        background-color: #1e1e1e;
+        text-align: center;
+        padding: .3rem 0;
+        border-radius: .2rem;
+        font-size: .9rem;
+        color: whitesmoke;
+
+        &:hover {
+            border: 1px solid #009b00;
+            color: #009b00;
+        }
+    }
+    h1 {
+        font-size: 2rem;
+    }
+    .animal-facts {
+        display: flex;
+        gap: 2rem;
+        font-size: 1.5rem;
+
+
+        span {
+            font-weight: bolder;
+        }
+    }
+    
+    img {
+        max-width: 40%;
+        aspect-ratio: 16/9;
+        display: block;
+        object-fit: cover;
+    }
+
+}
