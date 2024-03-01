@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "name": "Fluffy",
+            "species": "Dog",
+            "image_url": "https://images.unsplash.com/photo-1505628346881-b72b27e84530?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "favourite_food": "Bones",
+            "best_friend": "Rover",
+            "favourite_spot": "Backyard"
+        },
+        {
+            "name": "Mr. Whiskers",
+            "species": "Cat",
+            "image_url": "https://www.scotsman.com/webimg/b25lY21zOmIyZmViOTY0LTJjNjMtNDEyOC1hNTI1LTAyNDhlNWIxOGY0Yzo4OTQ5NjNjNy01ZWVmLTQ5Y2ItOGI5OC0yMzc4Y2QwMDAyM2U=.jpg?crop=3:2&width=800",
+            "favourite_food": "Fish",
+            "best_friend": "Whiskers"            
+        },
+        {
+            "name": "Nibbles",
+            "species": "Rabbit",
+            "image_url": "https://images.unsplash.com/photo-1535241556859-780cb9f395f2?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "favourite_food": "Carrots",
+            "best_friend": "Bunny",
+            "favourite_spot": "Garden"
+        },
+        {
+            "name": "Paws",
+            "species": "Hamster",
+            "image_url": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "favourite_food": "Seeds",
+            "best_friend": "Whiskers",
+            "favourite_spot": "Hamster wheel"
+        }
+    ]
+}
