@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "name": "Speedy McBurnout",
+            "type": "Muscle Car",
+            "img": "https://images.unsplash.com/photo-1502318217862-1c6a1c1f8c8e",
+            "favourite_road": "Straight, deserted highways",
+            "favourite_drink": "High-octane gasoline",
+            "favourite_song": "Born to Be Wild by Steppenwolf",
+            "country_song": "She Thinks My Tractor's Sexy by Kenny Chesney",
+            "hates": "Traffic jams and speed limits"
+        },
+        {
+            "name": "Rusty Rattletrap",
+            "type": "Vintage Car",
+            "img": "https://images.unsplash.com/photo-1585412477130-6d83d3ec8992",
+            "favourite_road": "Narrow, winding country roads",
+            "favourite_drink": "Classic motor oil",
+            "favourite_song": "I Can't Drive 55 by Sammy Hagar",
+            "country_song": "My Give a Damn's Busted by Jo Dee Messina",
+            "hates": "Car washes and modern technology"
+        },
+        {
+            "name": "Electra Sparkle",
+            "type": "Electric Car",
+            "img": "https://images.unsplash.com/photo-1580945720871-1d8d133fefa7",
+            "favourite_road": "Eco-friendly city streets",
+            "favourite_drink": "Electricity from renewable sources",
+            "favourite_song": "Electric Avenue by Eddy Grant",
+            "country_song": "Redneck Woman by Gretchen Wilson",
+            "hates": "Gas-guzzling SUVs and fossil fuels"
+        },
+        {
+            "name": "Turbo Thunder",
+            "type": "Sports Car",
+            "img": "https://images.unsplash.com/photo-1539272430678-08f10a03b8f3",
+            "favourite_road": "Twisty mountain passes",
+            "favourite_drink": "Turbocharged adrenaline",
+            "favourite_song": "Life is a Highway by Tom Cochrane",
+            "country_song": "Save a Horse (Ride a Cowboy) by Big & Rich",
+            "hates": "Slow drivers and rainy days"
+        },
+        {
+            "name": "Bessie the Beast",
+            "type": "Monster Truck",
+            "img": "https://images.unsplash.com/photo-1615859300195-708fc2ebc108",
+            "favourite_road": "Off-road dirt tracks",
+            "favourite_drink": "Diesel with a hint of mud",
+            "favourite_song": "Eye of the Tiger by Survivor",
+            "country_song": "Beer for My Horses by Toby Keith",
+            "hates": "Compact cars and traffic lights"
+        }
+    ]
+}

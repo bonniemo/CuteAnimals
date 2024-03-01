@@ -12,7 +12,7 @@ const AnimalsChoose = ({ animals }) => {
 
     return (
         <>
-            <section className="animal-choose">
+            <section className="dropdown">
                 <label htmlFor="animal-choose">Choose a cute animal</label>
                 <select name="animals" id="animal-choose" onChange={handleSelect}>
                     <option value="">Animals:</option>

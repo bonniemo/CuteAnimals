@@ -6,14 +6,14 @@ const AnimalInfo = ({ animal }) => {
         <>
             <article>
                 <h1>{name}</h1>
-                <section className="animal-facts">
+                <section className="facts">
                     <img src={image_url} alt="" />
                     <section>
                         <>
                             <p><span>Species:</span> {species}</p>
                             <p><span>Favourite Snack:</span> {favourite_food}</p>
                             <p><span>Bestie:</span> {best_friend}</p>
-                            <p><span>Favourite Hangout:</span> {favourite_spot}</p>
+                            {favourite_spot && <p><span>Favourite Hangout:</span> {favourite_spot}</p>}
                         </>
 
                     </section>

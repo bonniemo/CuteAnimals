@@ -7,7 +7,7 @@ const AnimalsBox = () => {
     const data = dataJson.data;
     return (
         <>
-            <article className="animals">
+            <article className="card">
                 <AnimalsChoose animals={data} />
             </article>
         </>

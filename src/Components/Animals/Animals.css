@@ -1,11 +1,12 @@
-.animals {
+.card {
     border: 1px solid black;
     background-color: #1e1e1e;
     color: whitesmoke;
     padding: 1rem;
     max-width: 600px;
     font-size: 1.2rem;
-    .animal-choose {
+    margin: 0 0 3rem;
+    .dropdown {
         display: flex;
         align-items: center;
     }
@@ -26,7 +27,7 @@
     h1 {
         font-size: 2rem;
     }
-    .animal-facts {
+    .facts {
         display: flex;
         gap: 2rem;
         font-size: 1.5rem;
